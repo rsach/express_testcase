@@ -1,6 +1,6 @@
 create database testdb
-username: root,
-password:root
+
+username: root,   password:root
 
 create table photos(path varchar(50));
 
